@@ -16,6 +16,7 @@ With this Apex class, you can get the list of fields which Integration User does
 2. run test method checkPermIntegrationUser()
 3. open debug log and filter it with 'DEBUG'
 
+![DebugLog](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/144149/e9750727-d513-0b9f-f84c-e39c68c3af73.png)
 Note: Sometimes debug log size reaches to its maximum.  In that case, adjust trace flags.  Apex Code must be higher than DEBUG, other categories can be NONE.
 
 ## Technical Supplement
